@@ -15,3 +15,12 @@
 4. ### Skills :
     1. *Programming languages* : **JS**
     1. *Secondary skills* : Blind ten-finger keyboard typing (**En&Ru**)
+1. ### Education :
+   1. *In general* : Vocational education (**4 years of study**)
+   1. *Codecademy courses* :
+      1. **HTML**
+      1. **CSS**
+      1. **GIT**
+
+1. ### English :
+  Completed eight-month English courses (level **A2**) in the last academic year. Studying **B1** level now.
