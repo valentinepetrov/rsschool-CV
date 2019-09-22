@@ -6,7 +6,7 @@
 1. ### Contact info    :
    1. *Email*          : w.e.r.9.9.9@mail.ru <br>
    1. *Phone number*   : +375-25-907-55-17 <br>
-   1. ### Summary : 
+1. ### Summary : 
    Before I  started this course last academic year, I had gained experience in various fields. I used to be auto-mechanic, military contract serviceman, unskilled labourer, entrepreneur and I also had other interesting experience, but in these cases I did not found a prospect for my family and myself.<br>
    I will be a programmer.<br>
    I will learn new things from everywhere because : <br>
