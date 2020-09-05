@@ -22,7 +22,7 @@
       1. **CSS**
       1. **GIT**
    1. *It-academy courses* :
-      1. *Разработка веб-сайтов с использованием HTML, CSS и JavaScript*(**3 months**)
-      1. *Разработка веб-приложений на JavaScript*(**3 months**)
+      1. *Website development using HTML, CSS and JavaScript*(**3 months**)
+      1. *JavaScript Web Application Development*(**3 months**)
 1. ### English :
-  Completed eight-month English courses (level **A2**) in the last academic year. Studying **B1** level now.
+  Completed 16 month English courses (level **b1**) in the last academic year.
